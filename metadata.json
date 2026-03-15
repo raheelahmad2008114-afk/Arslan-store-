@@ -1,0 +1,7 @@
+{
+  "name": "Arsalan Superstore",
+  "description": "A modern, full-stack grocery e-commerce platform for Arsalan Superstore in Kamalia, Pakistan, featuring real-time inventory, user authentication, and a vibrant shopping experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
